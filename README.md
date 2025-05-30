@@ -15,7 +15,7 @@ Make sure file `labeled_question_list.csv` ada di dalam folder `dataset/`.
 
 Lebeling
 ---
-untuk lebeling dataset bisa menggunakan code repository ini
+untuk lebeling dataset bisa menggunakan code repository ini <br>
 https://github.com/Alhuzsyam/lebeling_data.git
 <hr>
 ## 🧰 Requirements

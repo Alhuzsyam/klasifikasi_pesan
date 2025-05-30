@@ -13,6 +13,11 @@ Make sure file `labeled_question_list.csv` ada di dalam folder `dataset/`.
 
 ---
 
+Lebeling
+---
+untuk lebeling dataset bisa menggunakan code repository ini
+https://github.com/Alhuzsyam/lebeling_data.git
+<hr>
 ## 🧰 Requirements
 
 Instalasi library yang dibutuhkan:
@@ -20,6 +25,7 @@ Instalasi library yang dibutuhkan:
 ```bash
 pip install -r requirements.txt
 ```
+
 
 Jalankan program:
 
